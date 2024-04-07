@@ -11,8 +11,9 @@ body {
 ul li{
     background-color: white;
     display: inline-grid;
-    margin:100px;
+    margin:50px;
     text-align: center;
+	box-shadow: #010325;
 }
 nav{
 	position: relative;
